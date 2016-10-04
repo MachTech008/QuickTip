@@ -1,4 +1,4 @@
-# QuickTio
+# QuickTip
 QuickTips to share with people
 
 1. To server static front end you need a simple HTTP server that serves the file, or chrome will complain. `npm install -g http-server`

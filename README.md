@@ -14,4 +14,5 @@ QuickTips to share with people
    What about setting up a quick remote demo server and too lazy to install nginx and configure? Because if you ssh into a EC2 instance, run http-server in the background, when you close the ssh session, terminal it will send SIGTERM to the http-server process and kill it. Use `nohup http-server -p 9000 -s &`.
 
 2. Scalable and Intuitive DevOp work flow
+
         See [link](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)

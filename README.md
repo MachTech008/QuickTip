@@ -15,4 +15,4 @@ QuickTips to share with people
 
 2. Scalable and Intuitive DevOp work flow
 
-        See [link](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
+    See [link](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
